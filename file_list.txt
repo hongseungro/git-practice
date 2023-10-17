@@ -1,0 +1,14 @@
+total 0
+0 -rw-r--r-- 1 PC 197609 0 Oct 17 11:16 backup_memo.txt
+0 -rw-r--r-- 1 PC 197609 0 Oct 17 11:29 file_list.txt
+0 -rw-r--r-- 1 PC 197609 0 Oct 17 11:28 hello_world.txt
+0 -rw-r--r-- 1 PC 197609 0 Oct 17 11:14 memo.txt
+0 drwxr-xr-x 1 PC 197609 0 Oct 17 11:18 neuralintlab/
+0 -rw-r--r-- 1 PC 197609 0 Oct 17 11:28 test.txt
+total 1.0K
+-rw-r--r-- 1 PC 197609   0 Oct 17 11:16 backup_memo.txt
+-rw-r--r-- 1 PC 197609 326 Oct 17 11:29 file_list.txt
+-rw-r--r-- 1 PC 197609   0 Oct 17 11:28 hello_world.txt
+-rw-r--r-- 1 PC 197609   0 Oct 17 11:14 memo.txt
+drwxr-xr-x 1 PC 197609   0 Oct 17 11:18 neuralintlab/
+-rw-r--r-- 1 PC 197609   0 Oct 17 11:28 test.txt
